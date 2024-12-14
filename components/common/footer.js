@@ -39,7 +39,7 @@ export default function Footer() {
 							className='transition-all hover:scale-110 w-6 md:w-10 h-6 md:h-10'
 							alt='logo'
 						></Image>
-						<h2 className='ml-3 font-bold leading-5'>Landing Page</h2>
+						<h2 className='ml-3 font-bold leading-5'>Reeds</h2>
 					</a>
 					<div className='flex flex-wrap justify-center gap-x-2 md:gap-x-5 gap-y-1'>
 						{linkList.map((link, index) => {
@@ -59,11 +59,11 @@ export default function Footer() {
 				<p>
 					©{' '}
 					<a
-						title={'huglemon'}
-						href='http://huglemon.com?rel=landingpage'
+						title={'reeds technology'}
+						href='#'
 						target='_blank'
 					>
-						hugLemon
+						reeds-tech
 					</a>{' '}
 					present.
 				</p>

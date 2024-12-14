@@ -35,7 +35,8 @@ export default function LangSwitch() {
 	};
 
 	return (
-		<div className='dropdown dropdown-end dropdown-hover z-[100]'>
+		<div/>
+		/*<div className='dropdown dropdown-end dropdown-hover z-[100]'>
 			<div
 				tabIndex={0}
 				role='button'
@@ -63,6 +64,6 @@ export default function LangSwitch() {
 					);
 				})}
 			</ul>
-		</div>
+		</div>*/
 	);
 }
